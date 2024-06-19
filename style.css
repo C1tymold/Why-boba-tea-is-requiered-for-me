@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+    background-image: url("assets/matcha-milk-tea_-69-500x375.webp");
+}
+* {
+    font-family: "Oswald", sans-serif;
+}
+#heading{
+    font-size: 72px;
+    text-align: center;
+    color:gold
+}
+#booboobear{
+    font-size: 31px;
+    text-align: center;
+    color: rgb(13, 29, 251);
+
+}
+#him{
+    position: absolute;
+    right:0 ;
+}
+#pepper{
+    position: absolute;
+    left:0 ;
+}
+.me{
+    font-size: 42px;
+}
